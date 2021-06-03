@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Yahh, Im in love with u :3',
     question:'Trên thế giới hơn 7 tỉ nụ cười nhưng mà với anh nụ cười của em là đẹp nhấtt thế nên là anh sang đón em đi hẹn hò nhaa <3 ',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu cả hai á Junior lẫn anh luoonn này em tự viết chứ anh không có làm gì đâu nhaa <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Bae ăn bánh tráng trộn hem hôm qua anh đi mua với idol có tiệm bán bánh ngon cực á mà nhiều vl luôn.',
     btnAccept: 'Okiiiii lun <3',
