@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hết dịch gặp nhau nhá :))).',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/direct/t/340282366841710300949128388694925473346'
+    messLink: ''
 }
