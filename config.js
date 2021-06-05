@@ -4,16 +4,16 @@ const CONFIG = {
     Mà sao chị cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    btnIntro: 'Hehe',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Chị yêu em <33',
-    btnNo: 'Chị không yêu em:3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao chị lại yêu em ???',
-    btnReply: 'Lời nhắn gửi cho em <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    btnNo: 'Chị không yêu em :3',
+    question:'Cần lấy bao nhiêu ml dung dịch có nồng độ 36% (D=1,19g/ml) để pha 5 lít HCl có nồng độ 0,5M',
+    btnReply: '=))))))',
+    reply: 'Chị tự làm i em hong biết làm :3',
     mess: 'Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Tối nay chị đi chơi với em nhé.',
+    messDesc: 'Chị thi tốt nhé, em tin chị làm được <3',
     btnAccept: 'Oke nèeee <3',
     messLink: 'https://m.me/trangho2301' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
