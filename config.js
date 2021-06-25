@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Minh Thu à!',
-    introDesc: `Văn ít thôi em `,
+    introTitle: 'Em à!',
+    introDesc: `Một ngày tốt lành `,
     btnIntro: 'Nhấn vào đây',
-    title: 'Thu nờ on 😙',
-    desc: '??? Nờ on non ',
+    title: 'Nàng Thơ 😙',
+    desc: 'Vẫn là em nhưng là Nàng Mây ',
     btnYes: 'Thích anh Dự <33',
     btnNo: 'Không là con chó :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
