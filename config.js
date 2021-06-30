@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    introTitle: 'Darling à!',
+    introDesc: `Bồ công anh bay khi có gió.
+    Anh chỉ cười khi nơi đó có 🥺`,
+    btnIntro: 'khùng đin=))',
+    title: 'Thật ra anh biết anh không có gì tốt hết🥺, 
+    chỉ được cái là rất yêu bé hoyy👉👈',
+    desc: 'Nên là bé đừng có ib nhiều với trai nho "ghen đó"😿 
+    và chỉ yêu mình anh thôi nhé🥺 ',
+    btnYes: 'dạaa, yêuu anh nhất nhất <33',
+    btnNo: 'Không thèm :))',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'Anh biết mà 😳. Baby lúc nào thương anh nhất 😆🥰',
+    messDesc: 'Mãi yêu nhau nhé công chúa của anh🥺.',
+    btnAccept: 'Okiiiii baby lun <3',
+    messLink: 'https://www.facebook.com/beyencute2007'
 }
