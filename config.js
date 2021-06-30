@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'lợn à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Lợn à!',
+    introDesc: `Biết bụt hem biết bụt hong
+    btnIntro: 'hong hong',
+    title: 'bụt lù lù đây sao ko biết',
+    desc: 'bụt là người hiền dịu nết na ',
+    btnYes: 'đúng rồi bụt hiền lắm <33',
+    btnNo: 'Không hiền chút nào:3',
+    question:'Trên thế giới này bụt là người hiền nhất<3',
+    btnReply: 'Gửi cho bụt <3',
+    reply: 'bụt thông minh vậy',
+    mess: 'mình biết mà',
+    messDesc: 'bạn đừng bắt nạt mình nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com https://www.facebook.com/phuc.top.1
 }
