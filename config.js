@@ -9,7 +9,7 @@ const CONFIG = {
     question:'Trên thế giới này bụt là người hiền nhất<3',
     btnReply: 'Gửi cho bụt <3',
     reply: 'bụt thông minh vậy',
-    mess: 'mình biết mà',
+    mess: 'mình biết mà hihi',
     messDesc: 'bạn đừng bắt nạt mình nhé',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com https://www.facebook.com/phuc.top.1
