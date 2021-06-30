@@ -1,19 +1,18 @@
+
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'lợn à!',
+    introDesc: `chào bạn nhé ơ không chào lại à biết chào không vậy',
+    Chuẩn bị xem ảnh ma đây này nhìn nhé
+    Đằng sau bạn có ma kìa nhìn kìa sau kìa`,
+    btnIntro: 'làm gì có',
+    title: 'có thật mà nhìn lại xem kìa nó đó',
+    desc: 'Thế cũng tin hihi ',
+    btnYes: 'bụt nói gì cũng đúng',
+    btnNo: 'Không, Ai tin bụt',
+    question:'Bụt hiền lành tốt bụng đáng tin ',
+    btnReply: 'Gửi cho Bụt <3',
+    reply: 'Bụt hơi bị hiền lành luôn <33333333',
+    mess: 'mình biết mà 🥰. bụt mãi đỉnh 😘😘',
+    messDesc: 'thấy bụt tạo cái này vjp không.',
+    btnAccept: 'vjpp lun <3',
+    
