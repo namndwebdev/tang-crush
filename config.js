@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hellu em iu!',
+    introTitle: 'Hellu em iuu!',
     introDesc: `chị có điều muốn hỏi
     em nhớ phải trả lời thật lòng nhaaa:3`,
     btnIntro: 'nhất trí',
