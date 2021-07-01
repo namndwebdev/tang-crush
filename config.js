@@ -1,11 +1,11 @@
 const CONFIG = {
     introTitle: 'Baee à!',
-    introDesc: `nhấn zô <3 điii`, 
+    introDesc: `Trên trái đất có 7,8 tỷ nụ cười nhưng nụ cười của bae là đẹp nhất đó ❤`, 
    
 
 
-    btnIntro: '<3',
-    title: 'Có zợ tui thì mới thoát ra thuii',
+    btnIntro: 'Tui biết mà 🥰',
+    title: 'Có ngiu tui thì mới thoát ra thuii',
     desc: 'Giờ seo ?  Iu tui hongg?? ',
     btnYes: 'Yêu nhất quả đất luonnnn ❤',
     btnNo: 'Chúng ta là bạn tốt nhá', 
