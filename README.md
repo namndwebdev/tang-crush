@@ -11,11 +11,11 @@ const CONFIG = {
     introTitle: 'Changg à:33',
     introDesc: `Trái đất vốn lạ thường
     Mà sao changg cứ đi nhầm đường
-    Lạc vào tim minh lẻ loi
+    Lạc vào tim minh lẻ loi ',
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'ỏ,dangyeuu qua:3',
     title: 'Phải chăng Mingg đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Lam nguoi yeuu minh hong ',
+    desc: 'Lam nguoi yeuu minh hong ?',
     btnYes: 'Daa co <33',
     btnNo: 'Không,liuliu:3',
     question:'Trên thế giới hơn 7 tỉ người mà sao chang lại yêu Mingg <3',
