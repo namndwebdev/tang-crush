@@ -7,13 +7,13 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    btnYes: 'Vẫn cứ là thích m <33',
+    btnNo: 'Không, Bạn à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao m lại yêu t <3',
+    btnReply: 'Gửi cho t <3',
+    reply: 'tại vì m siêu thích t :333',
+    mess: 'T biết mà.Nếu vậy thì ib t đi chờ j nựa',
+    messDesc: 'hôm nào đi ts công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.messenger.com/t/100040382676833' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
