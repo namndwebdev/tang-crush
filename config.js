@@ -6,7 +6,7 @@ const CONFIG = {
     title: 'Cậu thích tớ đúng hongg nee🥰',
     desc: 'Thoát ra là thích tớ dokk🐳 ',
     btnYes: 'Um thich cau nhiu nhiu <33',
-    btnNo: 'Không, nằm mơ ii :3',
+    btnNo: 'Không, nằm mơ iii :3',
     question:'Tớ biết cậu chọn thích mà,seo cậu lại thích tớ zii <3',
     btnReply: 'Gửi cho thachthao🐳',
     reply: 'Tại vì cậu cutee đo' <33333333',
