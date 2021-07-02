@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hi anh!',
+    introDesc: `You are the only thing
+    that can ease my mind on days like these
+    You are the only one
+    that take my mind somewhere else `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Do you wanna be my Greentea in the morning😙',
+    desc: 'be my, my sugar honey? ',
+    btnYes: 'yea, you are all I need <33',
+    btnNo: 'you are just so great, but I cant be with u :3',
+    question:'there are over 7 billion in the word Why were you trying to get some time with me? <3',
+    btnReply: 'Send to me <3',
+    reply: 'cos Im only interested in one of a kind and baby ya fine <33333333',
+    mess: 'I know it 🥰. big butt 😘😘',
+    messDesc: 'waiting for what? why dont you msg me immediately?.',
+    btnAccept: 'Ok em <3',
+    messLink: 'http://fb.com' //https://www.facebook.com/messages/t/100007730149351. VD: https://m.me/nam.nodemy
 }
