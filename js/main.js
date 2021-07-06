@@ -22,7 +22,7 @@ function firstQuestion(){
     Swal.fire({
         title: CONFIG.introTitle,
         text: CONFIG.introDesc,
-        imageUrl: <img src="http://webcoban.vn/image/cat-2.jpg">,
+        <img src="https://www.facebook.com/messenger_media/?thread_id=120251599366799&attachment_id=369271307899735&message_id=mid.%24cAAA3qstXQgqArf1FU16fLfzZMa3N">,
         imageWidth: 300,
         imageHeight: 300,
         background: '#fff url("img/iput-bg.jpg")',
