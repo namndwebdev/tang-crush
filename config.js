@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Hết dịch Hiệp mang tớ đi ăn kem nhớ 😙',
     desc: 'Hiệp mời nhớ ',
-    btnYes: 'Hiệp đồng ý ' <33',
+    btnYes: 'Hiệp đồng ý <33',
     btnNo: 'Không, có cc :3',
     question:'mỗi kem thôi à <3',
     btnReply: 'được chưa<3',
