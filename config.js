@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Diệp Chi, right?',
+    introDesc: `You know what?`,
+    btnIntro: 'You look just cute today',
+    title: 'I couldnt sleep last night. So, I made this. And, yeah, just for you =))',
+    desc: 'You have a day at the beach? How is it? ',
+    btnYes: 'Very nice. I like it... But, I like you more =)) Just kidding, Imma tell you about it :3',
+    btnNo: 'Great. So? :3',
+    question:'So, you gonna text me (first) to tell me about it, or anything (you want)? =))',
+    btnReply: 'And,with a pic of the beach (or you) today?',
+    reply: 'Okay, why not?',
+    mess: 'I know you will. Ill wait',
+    messDesc: 'Tonight. 8:30pm?',
+    btnAccept: 'Yeah <3',
+    messLink: 'https://www.facebook.com/anhthu.leho/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
