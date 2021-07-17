@@ -1,15 +1,15 @@
 const CONFIG = {
     introTitle: 'Phương à!',
-    introDesc: `m nói t bede đúng kh`,
+    introDesc: `m trêu t bede xong mất tích đúng kh`,
     btnIntro: 'hihi',
     title: 'nói thật đi t đàn ông đúng kh',
     desc: 'good man đúng kh ',
-    btnYes: 'đúng đúng đúng ',
+    btnYes: 'đúng đúng đúng lại còn đẹp trai ',
     btnNo: 'Không',
     question:'xong còn thế nào nữa',
     btnReply: 'nói đê',
     reply: 'Nam đẹp trai thực sự, 10 điểm',
-    mess: 't biết mà hihi',
+    mess: 't biết mà hihi, nói thế này bao h mua kem cho =)),
     messDesc: 'nói đúng còn nói to.',
     btnAccept: 'hihi',
     
