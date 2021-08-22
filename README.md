@@ -1,4 +1,3 @@
-
 const CONFIG = {
     introTitle: 'Hí bạn ',
     introDesc: `4 năm học với nhau bạn trả lời thật lòng nhá
@@ -13,5 +12,5 @@ const CONFIG = {
     mess: 'Mình biết mà. Ngại quá kkkkk',
     messDesc: 'Thế lúc nào đi đâu nhớ mời Khánh nhé :333.',
     btnAccept: 'Okiiiii lun <3',
-    
+
 
