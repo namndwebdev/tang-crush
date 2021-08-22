@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Khánh cũng dễ mến, hiền lành và đẹp trai nữa <33333',
     mess: 'Mình biết mà. Ngại quá kkkkk',
     messDesc: 'Thế lúc nào đi đâu nhớ mời Khánh nhé :333.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <33',
 
 
