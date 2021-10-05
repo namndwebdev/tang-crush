@@ -3,10 +3,10 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Sao em occho quá z
-    Nhớ mua la bàn mà đi nha e`,
+    Nhớ mua la bàn mà đi nha e`',
     btnIntro: 'hihi',
     title: 'Em rất ngu có đúng không? 😙',
-    desc: 'em rất là ngu  ',
+    desc: 'em rất là ngu',
     btnYes: 'Em xin lỗi em ngu<33',
     btnNo: 'Không Anh trai à :3',
     question:'Làm gì để bớt ngu hơn hả <3',
