@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Emm à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
+    Mà sao em cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
