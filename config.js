@@ -1,16 +1,18 @@
-const CONFIG = {
-    introTitle: 'hi pồ!',
-    introDesc: ` chơi đồ để high, ju em thì hi. Inbox em liền nhaaa `,
+const CONFIG = const CONFIG = {
+    introTitle: 'hi cậu!',
+    introDesc: `tớ khum biết làm thơ chỉ
+    biết rằng tớ ju cậu gất nhìuuu`,
     btnIntro: 'hihi',
-    title:'nếu anh cảm thấy thương thấy nhớ mụt người thì anh đã bik ju gòi đó😙',
-    desc: 'anh thích em khum hã ',
-    btnYes: 'ju em nhìu nhìu nhìu <33',
-    btnNo: 'Khum tui khum ju em đou :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại ju em <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: ' tại em đáng ju quá khum cưỡng lại đựt <33333333',
-    mess: 'en biết mà 🥰. ju em nhiều nhiều 😘😘',
-    messDesc: 'gảnh mik đi trà chanh anh nhéee.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'cậu cũng z đúng hok nèeeee😙',
+    desc: 'trả lời đuyyy ',
+    btnYes: 'đúng rùiii',
+    btnNo: 'Khum tui ko thích cậu:3',
+    question:'ụa sao ju tui z ❤',
+    btnReply: 'Gửi cho tớ ❤',
+    reply: ' tại tui đáng ju quó <33',
+    mess: 'ỏ tui bíc gùi nhaaa 😘😘',
+    messDesc: 'z chúng mik ún trà sữa đi.inb liền',
+    btnAccept: 'Okiiiii lun ❤',
+    messLink: 'https://www.facebook.com/settings?tab=account&section=username'
 }
+    
