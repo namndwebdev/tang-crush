@@ -7,10 +7,10 @@ const CONFIG = {
     btnYes: 'Di chu tr oii <3 ',
     btnNo: 'Không, ham l a? ',
     question:'The may h nhi? ',
-    btnReply: 'Khong di ',
-    reply: '8h nhe aiu <33333333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối mai 8h anh qua đón nhé công chúa.',
+    btnReply: ' okiii ',
+    reply: '8h nhe aiu, <3333333333',
+    mess: 'Anh biết mà. :3 ',
+    messDesc: 'Tối mai 8h anh qua đón nhé công chúa, d ra t xach cl gi :) .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
