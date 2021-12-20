@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hmmm hi !!!',
+    introTitle: 'Hmmm hi !!',
     introDesc: `Khi ma cau bam vao cai link nay nghia la cau cung k co ai de di choi cung dung khumm?? `,
     btnIntro: 'dung z ',
     title: 'Di choi cung nn ?? ',
