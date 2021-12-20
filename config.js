@@ -1,19 +1,15 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Hmmm hi !!',
+    introDesc: `Khi ma cau bam vao cai link nay nghia la cau cung k co ai de di choi cung dung khumm?? `,
+    btnIntro: 'dung z ',
+    title: 'Di choi cung nn ?? ',
+    desc: 'Di choi cung nn ??  ',
+    btnYes: 'Di chu tr oii <3 ',
+    btnNo: 'Không, ham l a? ',
+    question:'The may h nhi? ',
+    btnReply: ' okiii ',
+    reply: '8h nhe aiu, <3',
+    mess: 'Anh biết mà :3 ',
+    messDesc: 'Tối mai 8h anh qua đón nhé công chúa, d ra t xach cl di :) .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'https://www.facebook.com/ngocnam.pham2009/' 
