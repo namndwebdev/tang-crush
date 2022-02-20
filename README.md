@@ -8,20 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Ben à !',
-    introDesc: `Gọi tớ là một vì sao. Vì sao thích Ben🥰 `,
+    introTitle: 'Yến à !',
+    introDesc: `Bỏ lỡ hoàng hôn thì có thể xem lại vào ngày mai. bở lỡ Yến thì không có cơ hội lần 2. 🥰 `,
     btnIntro: 'hihi',
-    title: 'Ôi bao nhiêu mùa thu cũng không đẹp bằng nụ cười của Ben 😙',
-    desc: 'Phải chăng tớ đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao Ben lại yêu tớ <3',
+    title: 'ăn cơm má nấu thôi mà có cần đáng iu vậy hông 😙',
+    desc: 'Yến có muốn hang out with me hông ',
+    btnYes: 'Có nhaaa <33',
+    btnNo: 'Hông :3',
+    question:'Trên thế giới hơn 7 tỉ người gặp được Yến là 1 phép màu <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Yêu anhh nhiềuu <333',
-    mess: 'Tôi biết mà 🥰. Yêu Ben nhiều nhiều 😘😘',
-    messDesc: 'Hết dịch tớ chở đi coi phim nhé babe.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.instagram.com/youngdaforlife/
+    reply: 'Okay hết dịch chở tớ đi chơi nhé <333',
+    mess: 'Tớ biết mà 🥰',
+    messDesc: 'Yến có muốn nói gì với tớ hông.',
+    btnAccept: 'Có <3',
+    messLink: 'https://www.facebook.com/yangdaehyunnn'
 }
 ```
 
