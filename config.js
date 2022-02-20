@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Yến à!',
     introDesc: `Bỏ lỡ hoàng hôn thì có
     thể ngắm lại vào ngày mai. Còn
-    bỏ lỡ Yến thì không có cơ
+    bỏ lỡ Yếnn thì không có cơ
     hội lần hai.`,
     btnIntro: 'hihi',
     title: 'Ăn cơm má nấu thôi có cần cute vậy hông 😙',
