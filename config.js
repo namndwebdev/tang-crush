@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: ' thanh xinh đẹp à!',
+    introDesc: `Idol của em nè :> `,
+    btnIntro: 'Vâng hihi',
+    title: 'Chúc em 8/3 thât luôn vui vẻ mạnh khỏe và vui tươi nhá :>',
+    desc: 'chúc em thành công trong công việc và luôn đạt được những gi mình mong đợi ? ',
+    btnYes: 'Vâng em đồng ý <33',
+    btnNo: 'Không, em không thích :3',
+    question:'8/3 thật hạnh phúc nhaa',
+    btnReply: 'Gửi cho anh',
+    reply: 'em biết rồi anh thât là 1 người đz hahihihi',
+    mess: 'Anh biết mà ',
+    messDesc: 'hôm sau anh qua đèo đi ăn nhâ.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https:https://www.facebook.com/khainguyen27/
 }
