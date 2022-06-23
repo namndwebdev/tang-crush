@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Nhi à!',
+    introTitle: 'Tâm à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay sau 10h anh sẽ gọi em nhé công chúa Chứ không để sau 12h đâu.',
+    messDesc: 'Tối nay anh sẽ gọi em nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/lethanhphuong20102001' 
 }
