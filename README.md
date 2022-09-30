@@ -8,20 +8,20 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Yến à !',
-    introDesc: `Bỏ lỡ hoàng hôn thì có thể xem lại vào ngày mai. bở lỡ Yến thì không có cơ hội lần 2. 🥰 `,
+    introTitle: 'NgocLinh à !',
+    introDesc: `NgocLinh biết Ng0cLinh cute lắm không :))). 🥰 `,
     btnIntro: 'hihi',
     title: 'ăn cơm má nấu thôi mà có cần đáng iu vậy hông 😙',
-    desc: 'Yến có muốn hang out with me hông ',
+    desc: 'Ng0cLinh có muốn hang out with me hông?',
     btnYes: 'Có nhaaa <33',
     btnNo: 'Hông :3',
-    question:'Trên thế giới hơn 7 tỉ người gặp được Yến là 1 phép màu <3',
+    question:'Trên thế giới hơn 7 tỉ người gặp được Ng0cLinh là 1 phép màu <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Okay hết dịch chở tớ đi chơi nhé <333',
-    mess: 'Tớ biết mà 🥰',
-    messDesc: 'Yến có muốn nói gì với tớ hông.',
-    btnAccept: 'Có <3',
-    messLink: 'https://www.facebook.com/yangdaehyunnn'
+    reply: 'Khi nào Ng0cLinh rảnh Hưng chở Ng0cLinh đi du lịch Chou Âu nha =))) <333',
+    mess: 'Okay thôiii 🥰',
+    messDesc: 'Ng0cLinh có muốn nói gì với tớ hông.',
+    btnAccept: 'Cóoo <3',
+    messLink: 'https://www.instagram.com/ydh.kr82_/'
 }
 ```
 
