@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Thùy lợn!',
+    introTitle: 'Hello bae. Anh Minh đây !',
     introDesc: `Em có tin vào tình yêu sét đánh không ?
     Đó là lí do chúng ta gặp nhau
     Và anh đã yêu em mất rồi
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tới đây và nói những lời yêu thương với anh nào babe <3',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://m.me/congminhh410' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://m.me/congminhh410'
 }
