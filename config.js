@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Chỉ để được yêu thương nhé',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'8 giờ tối thứ 7 tuần này, đi chơi với tôi nhé, tôi sang đón chị!',
+    question:'8 giờ tối thứ 7 tuần này đi chơi với tôi nhé tôi sang đón chị!',
     btnReply: 'Gửi cho Phương nghe <3',
     reply: 'Okii chị đồng ý',
     mess: 'Tôi biết mà 🥰. Tuyệt vời quá 😘😘',
