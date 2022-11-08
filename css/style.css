@@ -26,7 +26,7 @@
   /* height: 100vh; */
   z-index: 0;
   background-repeat: no-repeat;
-  background-image: url(../img/bg.webp);
+  background-image: url(../img/bg.webp.jpg);
   background-size: cover;
   background-position: 50%;
   -webkit-filter: blur(4px);
