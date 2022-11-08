@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Michie à!',
-    introDesc: 'Facebook cứ hỏi anh: "What is on your mind?" Chẳng lẽ anh lại bảo em em em',
+    introDesc: `Facebook cứ hỏi anh: "What is on your mind?" Chẳng lẽ anh lại bảo em em em'`,
     btnIntro: 'hihi',
     title: 'Trở thành học sinh ngoan của Michie 😙',
     desc: 'Chỉ để được yêu thương nhé',
