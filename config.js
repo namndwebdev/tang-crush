@@ -13,5 +13,5 @@ Chẳng lẽ anh lại bảo em em em`,
     mess: 'Anh biết mà 🥰. Tuyệt vời quá 😘😘',
     messDesc: 'Hẹn chị cuối tuần này nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/lethanhphuong20102001' 
+    messLink: 'https://m.me/lethanhphuong2010' 
 }
