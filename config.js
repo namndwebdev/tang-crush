@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Tìm hỉu nhau nhé',
     btnNo: 'Không, Anh trai à :3',
     question:'8 giờ tối thứ 7 tuần này đi chơi với tôi nhé tôi sang đón chị',
-    btnReply: 'Gửi cho Phương nghe <3',
+    btnReply: 'Gửi cho Phương nghe',
     reply: 'Okii chị đồng ý',
     mess: 'Tôi biết mà 🥰. Tuyệt vời quá 😘😘',
     messDesc: 'Hẹn chị cuối tuần này nhé',
