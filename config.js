@@ -1,16 +1,67 @@
-const CONFIG = {
-    introTitle: 'Em à!',
-    introDesc: `Một ngày tốt lành <3 `,
-    btnIntro: 'Nhấn vào đây',
-    title: 'Nàng Tâm 😙',
-    desc: 'Vẫn là em nhưng là Nàng Thơ ',
-    btnYes: 'Cho anh làm quen nhớ <33',
-    btnNo: 'Không là con chó :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh vậy <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Tất nhiên là vì anh tốt bụng ,nam tính rồi @.@ ',
-    mess: 'Anh biết mà 🥰. Tốt đấy 😘😘',
-    messDesc: 'Em sẽ nói điều này với anh trong Mess chứ !',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100019817410344' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Love</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="shortcut icon" href="./icon.png" type="image/x-icon">
+</head>
+<body>
+    <div class="grid"></div>
+
+    <div class="warning"></div>
+
+    <div class="base">
+        <button id="activate">
+            <span></span>
+        </button>
+    </div>
+
+    <div class="box opened" id="cover">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <span></span><span></span>
+    </div>
+
+    <div class="hinges"></div>
+
+    <div class="text">
+        SELF-&thinsp;DESTRUCT
+    </div>
+    
+    <div id="panel2">
+        <div id="msg">YOUR ANSWER IS FALSE</div>
+        <span id="again">AGAIN PLEASE</span>
+    </div>
+
+
+    <div id="panel">
+        <div id="msg">ANSWER NOW</div>
+        <div id="time">9</div>
+        <span id="abort"><a href="index2.html">YES</a></span>
+        <span id="no">NO</span>
+        <span id="detonate">Oc Cho</span>
+    </div>
+
+    <div id="turn-off"></div>
+    <div id="closing"></div>
+
+    <div id="restart"><button id="reload"></button></div>
+
+    <div id="mute"></div>
+
+    <audio id="alarm">
+        <source src="https://josetxu.com/demos/sounds/self-destruct-alarm-count.mp3" type="audio/mpeg">
+    </audio>
+    
+    <script src="main.js"></script>
+
+</body>
+</html>
