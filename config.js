@@ -8,7 +8,7 @@ const CONFIG = {
     
     Tương tư là bệnh của tôi yêu nàng`,
     btnIntro: 'Next',
-    title: 'Lần đầu gặp mặt, em đi ngang qua anh, gieo cho anh một hạt giống',
+    title: 'Lần gặp đầu tiên đấy, em đi ngang qua, gieo cho anh một hạt giống',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
