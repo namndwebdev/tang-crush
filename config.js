@@ -8,15 +8,15 @@ const CONFIG = {
     
     Tương tư là bệnh của tôi yêu nàng`,
     btnIntro: 'Next',
-    title: 'Lần gặp đầu tiên đấy, em đi ngang qua, gieo cho anh một hạt giống',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    title: 'Em vô tình đi ngang qua, gieo vào anh một hạt giống, cứ ngỡ chỉ là cỏ dại...',
+    desc: 'Đến khi nhìn lại đã thấy một rừng hoa ',
+    btnYes: 'Đồng Ý',
+    btnNo: 'Không...',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'Nếu thấy website chất lượng liên hệ cho tôi',
+    btnAccept: 'Được rồi đi thôi!',
+    messLink: 'https://www.facebook.com/andysupernumberone/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
