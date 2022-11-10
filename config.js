@@ -1,8 +1,11 @@
 const CONFIG = {
     introTitle: 'Dear my special star',
     introDesc: `Thôn Đoài ngồi nhớ thôn Đông
+    
     Một người chín nhớ mười mong một người
+    
     Gió mưa là bệnh của trời
+    
     Tương tư là bệnh của tôi yêu nàng`,
     btnIntro: '',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
