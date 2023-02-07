@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hê sờ nhô babe!',
-    introDesc: `Thùy lợn. Em có biết nay ngày gì không ?
-    Hãy tiếp tục để có thể thấy anh ngọt ngào đến mức nào <3`,
-    btnIntro: 'Dạ, hihi đồ ngốc',
-    title: '20-10 nè anh chúc cô gái của anh mọi điều tốt đẹp nhất 😙',
-    desc: 'Nhân ngày 20-10 này, anh muốn chúc cô gái luôn hạnh phúc bên anh. Em yêu có yêu anh không ?',
-    btnYes: 'Rất nà yêu anh luôn <33',
-    btnNo: 'Không, Anh mơ à :3',
-    question:'20-10 này em muốn được nhận quà gì nè <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Chỉ cần bên anh là đủ rồi. Em đâu cần quà <3333333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Anh đùa thôi, mai gặp nhé cô bé anh vẫn có quà cho cô bé nè <3',
-    btnAccept: 'Ô sờ kê anh yêu. Cho anh cái hẹn ở đây nhé <3',
+    introTitle: 'Hê sờ nhô c Vịt thân mến!',
+    introDesc: `C Vịt à. Bạn có biết nay ngày gì không ?
+    Hôm nay là sinh nhật của bạn đó 😙`,
+    btnIntro: 'Bạn Vịt chọn quà nào',
+    title: 'Hôm nay là 1 ngày rất đặc biêt 😙',
+    desc: 'Là 1 ngày bạn già thêm 1 tuổi. Bạn có muốn 1 món quà trong ngày hôm nay khum nào. Đừng chọn có nhé 😙',
+    btnYes: 'Không cần quà đâu e Minh là món quà to nhất rồi <33',
+    btnNo: 'Có chứ phải có quà đấy nghe chưa :3',
+    question:'Thôi đùa đấy dù gì cũng là sinh nhật bạn bạn thích quà gì thì ghi vào đây <3',
+    btnReply: 'Gửi cho e Minh đzai <3',
+    reply: 'Không cần quà đâu cần có e Minh là được rồi zZzZzZzZzZzZ',
+    mess: 'Em biết mà 🥰. Thôi mai mang cho gói bim bim 😘😘',
+    messDesc: 'E đùa thôi, Chúc c Vịt sinh nhật vui vẻ, ngày càng xinh gái và k quạo <3',
+    btnAccept: 'Click vào đây chất vấn e Minh 😙',
     messLink: 'http://m.me/congminhh410'
 }
