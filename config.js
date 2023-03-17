@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Chào em!',
+    introTitle: 'Chào Lan Anh!',
     introDesc: `Tôi hỏi chú sâu xanh
     Lá có gì mà thích
     Chú sâu cười khúc khích
