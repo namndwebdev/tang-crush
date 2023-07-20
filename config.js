@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh Cung MInggg <3',
     reply: 'Em đồng ý và muốn thấy được tình cảm anh dành cho em sau này zZzZzZzZzZzZ',
     mess: 'Anh biết mà. Đây là lần nghiêm túc nhất của anh. Và anh sẽ yêu em bằng tất cả những gì anh có 😘😘',
-    messDesc: 'Anh không quan tâm gia đình em sẽ thế nào nhưng anh sẽ không đánh mất em đâu. Bất kể có chuyện gì xảy ra. Anh hứa với bé, từ giờ đến sau này <3',
+    messDesc: 'Anh không quan tâm gia đình em sẽ thế nào nhưng anh sẽ không đánh mất em đâu. Bất kể có chuyện gì xảy ra. Làm người yêu anh nhá <3',
     btnAccept: 'Click vào đây để đến với anh và nói Yêu anh nào cobe cụa tui 😙',
     messLink: 'http://m.me/congminhh410'
 }
