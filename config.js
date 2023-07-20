@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hê sờ nhô bé Thương thân mến!',
-    introDesc: `Bae à. Bạn có biết nay ngày gì không ?
+    introDesc: `Bae à. Em có biết nay ngày gì không ?
     A nghĩ hôm nay là 1 ngày đặc biệt đấy 😙`,
     btnIntro: 'Bất ngờ ở phía sau nghen',
     title: 'Hôm nay là 1 ngày rất đặc biêt 😙',
