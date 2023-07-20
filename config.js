@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: 'Chắc là không ! (Đừng chọn cái này 😥)',
     question:'Đây chắc là 1 lời tỏ tình đầu tư và nghiêm túc nhất của anh. Viết thứ em đang nghĩ ra đây được không <3',
     btnReply: 'Gửi cho anh Cung MInggg <3',
-    reply: 'Em đồng ý và muốn thấy được tình cảm cho em sau này zZzZzZzZzZzZ',
+    reply: 'Em đồng ý và muốn thấy được tình cảm anh dành cho em sau này zZzZzZzZzZzZ',
     mess: 'Anh biết mà. Đây là lần nghiêm túc nhất của anh. Và anh sẽ yêu em bằng tất cả những gì anh có 😘😘',
-    messDesc: 'Anh sẽ không đánh mất em đâu. Bất kể có chuyện gì xảy ra. Anh hứa với bé, từ giờ đến sau này <3',
+    messDesc: 'Anh không quan tâm gia đình em sẽ thế nào nhưng anh sẽ không đánh mất em đâu. Bất kể có chuyện gì xảy ra. Anh hứa với bé, từ giờ đến sau này <3',
     btnAccept: 'Click vào đây để đến với anh và nói Yêu anh nào cobe cụa tui 😙',
     messLink: 'http://m.me/congminhh410'
 }
