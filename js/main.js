@@ -1,14 +1,4 @@
-$(document).ready(function() {
-    // process bar
-    setTimeout(function() {
-        firstQuestion();
-        $('.spinner').fadeOut();
-        $('#preloader').delay(350).fadeOut('slow');
-        $('body').delay(350).css({
-            'overflow': 'visible'
-        });
-    }, 600);
-})
+
 
 function init(){
     $('#title').text(CONFIG.title)
@@ -103,7 +93,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Whyyy'>",
+        html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Ô này để trả lời nè'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
