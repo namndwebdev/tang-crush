@@ -4,7 +4,7 @@ const CONFIG = {
     phải chăng đến hôm nay nó không dừng lại ở chữ thích nữa : 3`,
     btnIntro: 'hihi',
     title: 'Phải chăng tớ đã yêu ngay từ cái nhìn đầu tiên và nụ cười ấy 😙',
-    desc: 'có thể cho tớ 1 cơ hội không dù chỉ là 1%',
+    desc: 'có thể cho tớ 1 cơ hội không dù chỉ là 1% ',
     btnYes: 'có em đồng ý <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại chọn tớ <3',
