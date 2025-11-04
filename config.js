@@ -5,7 +5,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Ebe Làm người yêu anh nhé 😙',
+    title: 'Ebe thoi khum buồn với suy nghĩ nữa nhá 😙',
     desc: 'Yêu em lắm ấy ',
     btnYes: 'Yêu anhhhhh <33',
     btnNo: 'Không, Anh trai à :3',
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Nay về mà ngủ sớm đê đấy',
+    messDesc: 'Nay mệt rùi em ngủ sớm đê đấy',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/Loc.nguyen.gaming.13.09/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
